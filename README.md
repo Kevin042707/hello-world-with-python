@@ -1,2 +1,2 @@
 # hello-world-with-python
-Credit: Eric pogue
+Credit: Eric pogue and Chatgpt
